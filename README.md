@@ -1,4 +1,4 @@
-# **E-Commerce Sales Analysis Dashboard for Target**
+# **E-Commerce Sales Analysis Dashboard **
 
 ### **Business Problem:**
 Target faces challenges in managing vast amounts of sales data across multiple regions, customer segments, and product categories. Key issues include:
@@ -52,3 +52,5 @@ The dataset includes key transactional details:
 3. **Top-Paying Customers**: Identifies the top-paying customers for personalized offers.
 4. **Best-Selling Products**: Displays top-selling products across regions and segments.
 5. **YoY Growth**: Shows Year-over-Year growth for sales, profits, and key metrics.
+
+![Image](https://github.com/user-attachments/assets/11f75695-2861-49f6-ae56-d9e5174004bd)
