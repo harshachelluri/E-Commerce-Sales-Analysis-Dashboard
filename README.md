@@ -1,6 +1,6 @@
-# **E-Commerce Sales Analysis Dashboard **
+# E-Commerce Sales Analysis Dashboard 
 
-### **Business Problem:**
+### Business Problem:
 Target faces challenges in managing vast amounts of sales data across multiple regions, customer segments, and product categories. Key issues include:
 
 1. **Sales Tracking**: Difficulty in tracking total sales by region and customer segment.
